@@ -521,7 +521,14 @@ header .slider{
 		margin: 30% auto;
     }
 
+
 }
+@media (max-width: 375px){
+	    }
+	.slider #mobBtn{
+		margin: 85% 25%;
+
+	  }
 
 
 /*@media (max-width: 650px){
